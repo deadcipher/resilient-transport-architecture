@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_OTHER",
+  "summary": "Исполняемый Mock-сервер сетевого транспорта на aiohttp (REST + WebSockets + Chaos Engineering)",
+  "updatedAt": "2026-08-29T06:21:40.628724700Z"
+}

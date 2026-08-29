@@ -1,0 +1,5 @@
+{
+  "artifactType": "ARTIFACT_TYPE_OTHER",
+  "summary": "Клиентский Transport SDK с поддержкой State Machine, Reconnect Backoff, PendingQueue и Heartbeat",
+  "updatedAt": "2026-08-29T06:21:50.666364Z"
+}
